@@ -21,6 +21,43 @@ body {
   background: var(--slate);
 }
 
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link.show,
+.navbar .quarto-navbar-tools .quarto-navigation-tool {
+  color: #fff8ea;
+}
+
+.navbar .navbar-nav .nav-link {
+  opacity: 0.92;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus,
+.navbar .quarto-navbar-tools .quarto-navigation-tool:hover,
+.navbar .quarto-navbar-tools .quarto-navigation-tool:focus {
+  color: #ffdca8;
+  opacity: 1;
+}
+
+.navbar .navbar-nav .nav-link.active {
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: var(--ochre);
+  text-decoration-thickness: 0.18rem;
+  text-underline-offset: 0.35rem;
+}
+
+.navbar-toggler {
+  border-color: rgb(255 248 234 / 60%);
+}
+
+.navbar-toggler-icon {
+  filter: invert(1) brightness(1.8);
+}
+
 h1,
 h2,
 h3 {
