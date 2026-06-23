@@ -1,6 +1,8 @@
 ---
-title: "Tamara Aránguiz-Rago"
-subtitle: "I study how landscapes record tectonics, climate, and erosion."
+title: "Tamara Aranguiz Rago, Ph.D."
+subtitle: |
+  Postdoctoral Associate  
+  University of Colorado Boulder
 toc: false
 ---
 
