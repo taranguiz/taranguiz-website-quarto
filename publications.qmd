@@ -2,16 +2,48 @@
 title: "Publications"
 ---
 
-A complete, verified publication list will be added here.
+This page will hold a verified publication list, selected talks, and links to papers, preprints, datasets, or code when available.
+
+::: {.note-box}
+Do not add final citation details until titles, author order, journals, DOIs, and manuscript status are verified.
+:::
 
 ## Published
 
-*Publications coming soon.*
+::: {.publication-card}
+**JGR: Earth Surface paper, 2025**  
+Slow strike-slip faulting in a hyperarid landscape.  
+*Full citation and DOI to add.*
+:::
+
+::: {.publication-card}
+**GRL paper, 2025**  
+Climate oscillation and fault slip rate controls on sediment aggradation and channel morphology.  
+*Full citation and DOI to add.*
+:::
+
+::: {.publication-card}
+**Oceanography paper, 2023**  
+Bilingual coding, science communication, and technical training.  
+*Full citation and link to add.*
+:::
 
 ## Submitted and in revision
 
-*Manuscripts coming soon.*
+::: {.publication-card}
+**Thermochronology manuscript**  
+Cooling, exhumation, and basin development in the Coastal Cordillera.  
+*Status and citation details to add.*
+:::
 
 ## In preparation
 
-*Current projects coming soon.*
+::: {.publication-card}
+**Sediment cover and ridge-valley migration modeling**  
+*Project details to add.*
+:::
+
+::: {.publication-card}
+**IRSL paleoseismic deposits**  
+*Project details to add if this becomes a paper or appendix page.*
+:::

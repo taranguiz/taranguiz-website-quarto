@@ -2,6 +2,29 @@
 title: "CV"
 ---
 
-A downloadable curriculum vitae will be added soon.
+This page can become either a short web CV or a landing page for a downloadable PDF.
 
-For current information, please contact me by email.
+## Education
+
+- Ph.D., Earth and Space Sciences, University of Washington
+- Professional Degree, Geologist, University of Chile
+- B.Sc. in Geology, University of Chile
+- Academic exchange in Geosciences, Universidade de São Paulo
+
+## Research experience
+
+- Tectonic geomorphology, active tectonics, surface deformation, thermochronology, and landscape-evolution modeling
+- Field geology, Quaternary mapping, natural hazards, and engineering geology projects in Chile
+
+## Teaching and outreach
+
+- University teaching and teaching assistant roles in geology and related science courses
+- Technical training and bilingual programming/science communication workshops
+
+## Materials
+
+- [UW Symposium poster: Jesus Rangel](assets/pdf/UW_Symposium_JesusRangel.pdf)
+
+::: {.note-box}
+Add later: downloadable PDF, exact dates, current appointment, awards, publications, talks, fieldwork, service, and outreach.
+:::

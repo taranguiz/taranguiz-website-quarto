@@ -8,6 +8,8 @@
 
 # User-specific files
 .Ruserdata
+.DS_Store
+**/.DS_Store
 
 # Example code in package build process
 *-Ex.R
@@ -40,6 +42,15 @@ vignettes/*.pdf
 .Renviron
 
 # Quarto renders the GitHub Pages site into docs/.
+
+# Keep raw video out of GitHub Pages until web-compressed versions are created.
+assets/video/*.MP4
+assets/video/*.mp4
+
+# Keep raw image originals local; publish optimized copies from assets/img/web/.
+assets/img/*
+!assets/img/web/
+!assets/img/web/*
 
 # translation temp files
 po/*~

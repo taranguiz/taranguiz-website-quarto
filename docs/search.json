@@ -11,153 +11,181 @@
     "href": "teaching-outreach.html#teaching-and-mentoring",
     "title": "Teaching & Outreach",
     "section": "Teaching and mentoring",
-    "text": "Teaching and mentoring\nMy teaching emphasizes curiosity, clear communication, practical problem-solving, and an inclusive learning environment.\nCourses, workshops, and mentoring activities will be added soon."
+    "text": "Teaching and mentoring\nMy teaching emphasizes curiosity, clear communication, practical problem-solving, and an inclusive learning environment.\n\n\n\n\n\nUniversity teaching\nCourses and teaching assistant roles in geology, probability and statistics, physical chemistry, geologic hazards, and field-based learning.\n\n\n\n\n\n\n\nTechnical training\nPython training, coding workshops, data visualization, and practical programming for geoscience."
   },
   {
     "objectID": "teaching-outreach.html#outreach-and-science-communication",
     "href": "teaching-outreach.html#outreach-and-science-communication",
     "title": "Teaching & Outreach",
     "section": "Outreach and science communication",
-    "text": "Outreach and science communication\nI enjoy making geoscience accessible through public engagement, bilingual communication, and creative approaches—including lessons learned through improvisational theater.\nSelected outreach projects will be added soon."
+    "text": "Outreach and science communication\nI enjoy making geoscience accessible through public engagement, bilingual communication, and creative approaches—including lessons learned through improvisational theater.\n\nAdd later: CoCo activities, GeoLatinas involvement, public talks, outreach materials, and mentoring programs."
+  },
+  {
+    "objectID": "teaching-outreach.html#mentoring-and-field-learning",
+    "href": "teaching-outreach.html#mentoring-and-field-learning",
+    "title": "Teaching & Outreach",
+    "section": "Mentoring and field learning",
+    "text": "Mentoring and field learning\n\n\n\n\n\nMentoring is part of how I think about science: helping students build confidence with field observations, quantitative tools, and the process of asking research questions."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a tectonic geomorphologist from Santiago, Chile. I study how tectonics, climate, erosion, and sediment transport shape landscapes across timescales.\nMy work combines field geology, remote sensing, geochronology, thermochronology, and numerical modeling.\nI also care deeply about inclusive geoscience, teaching, mentoring, outreach, and science communication—including lessons learned through improvisational theater.\nMore biography and a portrait will be added soon."
+    "text": "I am a tectonic geomorphologist from Santiago, Chile. I study how tectonics, climate, erosion, and sediment transport shape landscapes across timescales, from active faults and river networks to long-term exhumation and mountain evolution.\nMy work combines field geology, remote sensing, geochronology, thermochronology, numerical modeling, and scientific programming. I am especially interested in places where the landscape preserves a complicated record: faults that slip slowly, deserts where water is rare but powerful, sediment that can hide or amplify tectonic signals, and mountains that carry the memory of climate change.\nI moved to the United States in 2020 to pursue graduate work in Earth and Space Sciences at the University of Washington. Before that, I studied geology at the University of Chile and worked on field campaigns across Chile, including projects related to active tectonics, natural hazards, Quaternary mapping, and engineering geology.\nI also care deeply about inclusive geoscience, teaching, mentoring, outreach, and science communication. I am part of communities that support Latin American and Latinx geoscientists, and I value bilingual science communication and technical training.\nOutside the usual academic box, improvisational theater has shaped how I think about communication: listening carefully, responding clearly, and making space for other people to contribute.\n\n\n\n\n\nIn the field\nFieldwork is where many of my questions start: reading geomorphic markers, collecting samples, and connecting landscape form to process.\n\n\n\nAdd later: portrait, current position wording, pronouns if desired, and a short paragraph about current/postdoctoral direction."
   },
   {
     "objectID": "gallery.html",
     "href": "gallery.html",
     "title": "Gallery",
     "section": "",
-    "text": "A curated collection of fieldwork, laboratory work, landscapes, teaching, and life outside science is coming soon."
+    "text": "A curated collection of fieldwork, laboratory work, landscapes, teaching, and life outside science will live here.\n\n\n\n\nFieldwork\nAtacama Desert, active faults, geomorphic markers, sediment deposits, and field mapping.\n\n\n\n\n\nLab work\nLuminescence sampling, thermochronology, sample preparation, and analytical work.\n\n\n\n\n\nLandscapes\nDeserts, mountains, rivers, glaciers, fjords, and landscapes that record tectonics and climate.\n\n\n\n\n\nTeaching and outreach\nWorkshops, mentoring, classrooms, public engagement, and bilingual science communication.\n\n\n\n\n\nCode to Communicate\nTechnical training, community, and bilingual science communication.\n\n\n\n\n\nMentoring\nField learning, student research, and building confidence through observation.\n\n\n\n\nAdd later: more images and final captions. Keep this curated rather than turning it into a full image dump."
   },
   {
     "objectID": "tools.html",
     "href": "tools.html",
     "title": "Tools & Code",
     "section": "",
-    "text": "Landlab and landscape-evolution modeling."
+    "text": "My technical work connects field questions with quantitative workflows: satellite data, topography, geochronologic constraints, landscape-evolution models, and clear scientific visualization."
   },
   {
     "objectID": "tools.html#numerical-modeling",
     "href": "tools.html#numerical-modeling",
     "title": "Tools & Code",
-    "section": "",
-    "text": "Landlab and landscape-evolution modeling."
+    "section": "Numerical modeling",
+    "text": "Numerical modeling\nLandlab and landscape-evolution modeling for testing how climate variability, sediment cover, and fault slip influence river networks and fault-zone morphology."
   },
   {
     "objectID": "tools.html#remote-sensing",
     "href": "tools.html#remote-sensing",
     "title": "Tools & Code",
     "section": "Remote sensing",
-    "text": "Remote sensing\nSentinel-1 InSAR, MintPy, GNSS integration, GIS, and DEM analysis."
+    "text": "Remote sensing\nSentinel-1 InSAR, MintPy, GNSS integration, GIS, DEM analysis, geomorphic markers, and topographic metrics."
   },
   {
     "objectID": "tools.html#geochronology-and-thermochronology",
     "href": "tools.html#geochronology-and-thermochronology",
     "title": "Tools & Code",
     "section": "Geochronology and thermochronology",
-    "text": "Geochronology and thermochronology\nAHe, ZHe, AFT, HeFTy modeling, and luminescence sampling."
+    "text": "Geochronology and thermochronology\nAHe, ZHe, AFT, HeFTy modeling, luminescence sampling, cooling histories, and integration with geologic constraints."
   },
   {
     "objectID": "tools.html#programming-and-visualization",
     "href": "tools.html#programming-and-visualization",
     "title": "Tools & Code",
     "section": "Programming and visualization",
-    "text": "Programming and visualization\nPython, MATLAB, PyGMT, TopoToolbox, and scientific visualization.\nSelected workflows and public repositories will be added soon."
+    "text": "Programming and visualization\nPython, MATLAB, PyGMT, TopoToolbox, reproducible notebooks, data visualization, and figure design.\n\nAdd later: selected public repositories, example notebooks, workshop materials, and links to code that is cleaned enough to share."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research asks how landscapes record interacting tectonic and climatic processes."
+    "text": "My research asks how landscapes record interacting tectonic and climatic processes. I use field observations, remote sensing, low-temperature thermochronology, geochronology, and landscape-evolution modeling to connect surface processes with fault slip, sediment transport, erosion, and mountain building."
   },
   {
-    "objectID": "research.html#faults-earthquakes-and-landscape-response",
-    "href": "research.html#faults-earthquakes-and-landscape-response",
+    "objectID": "research.html#project-pages-to-add",
+    "href": "research.html#project-pages-to-add",
     "title": "Research",
-    "section": "Faults, earthquakes, and landscape response",
-    "text": "Faults, earthquakes, and landscape response\nSlowly slipping faults can leave measurable records in topography, drainage networks, sediment deposits, and surface deformation."
+    "section": "Project pages to add",
+    "text": "Project pages to add\n\n\nSalar Grande Fault and landscape response\nClimate oscillations, sediment aggradation, and fault slip\nThermochronology of the Coastal Cordillera\nGlacial and postglacial sediment routing"
   },
   {
-    "objectID": "research.html#climate-variability-and-sediment-transport",
-    "href": "research.html#climate-variability-and-sediment-transport",
+    "objectID": "research.html#field-and-analytical-work",
+    "href": "research.html#field-and-analytical-work",
     "title": "Research",
-    "section": "Climate variability and sediment transport",
-    "text": "Climate variability and sediment transport\nI use landscape-evolution models to examine how climate oscillations and sediment cover influence rivers, drainage divides, and fault-zone morphology."
-  },
-  {
-    "objectID": "research.html#thermochronology-and-exhumation",
-    "href": "research.html#thermochronology-and-exhumation",
-    "title": "Research",
-    "section": "Thermochronology and exhumation",
-    "text": "Thermochronology and exhumation\nI use low-temperature thermochronology and geologic constraints to reconstruct cooling, exhumation, and basin development."
-  },
-  {
-    "objectID": "research.html#glacial-and-postglacial-landscapes",
-    "href": "research.html#glacial-and-postglacial-landscapes",
-    "title": "Research",
-    "section": "Glacial and postglacial landscapes",
-    "text": "Glacial and postglacial landscapes\nMy developing research expands these questions into mountain systems shaped by ice, rivers, tectonics, and changing sediment flux."
+    "section": "Field and analytical work",
+    "text": "Field and analytical work\n\n\n\n\n\nSampling landscape memory\nSediment samples, geomorphic markers, and remote observations help connect the field record to the timing and mechanics of landscape change."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tamara Aránguiz-Rago",
     "section": "",
-    "text": "I am a tectonic geomorphologist interested in how faults, climate, erosion, and sediment transport shape Earth’s surface across timescales.\nMy research combines field observations, remote sensing, geochronology, thermochronology, and numerical modeling to understand how landscapes respond to tectonic and climatic forcing."
+    "text": "I am a tectonic geomorphologist interested in how faults, climate, erosion, and sediment transport shape Earth’s surface.\nMy research combines field observations, remote sensing, geochronology, thermochronology, and numerical modeling to understand how landscapes respond to tectonic and climatic forcing.\nResearch Publications"
+  },
+  {
+    "objectID": "index.html#tectonic-geomorphology-across-timescales",
+    "href": "index.html#tectonic-geomorphology-across-timescales",
+    "title": "Tamara Aránguiz-Rago",
+    "section": "",
+    "text": "I am a tectonic geomorphologist interested in how faults, climate, erosion, and sediment transport shape Earth’s surface.\nMy research combines field observations, remote sensing, geochronology, thermochronology, and numerical modeling to understand how landscapes respond to tectonic and climatic forcing.\nResearch Publications"
   },
   {
     "objectID": "index.html#research-themes",
     "href": "index.html#research-themes",
     "title": "Tamara Aránguiz-Rago",
     "section": "Research themes",
-    "text": "Research themes\n\n\n\nActive faults and landscape response\nI study how slowly slipping faults leave measurable records in topography, drainage networks, sediment deposits, and surface deformation.\n\n\n\n\nClimate, sediment, and landscape evolution\nI use numerical models to test how climate variability and sediment cover influence river dynamics, divide migration, and fault-zone morphology.\n\n\n\n\nLong-term exhumation and mountain evolution\nI use thermochronology and geologic constraints to reconstruct cooling, exhumation, and landscape development over millions of years."
+    "text": "Research themes\n\n\n\n\n\nActive faults and landscape response\nSlowly slipping faults leave measurable records in topography, drainage networks, sediment deposits, and surface deformation.\n\n\n\n\n\n\n\nClimate, sediment, and landscape evolution\nNumerical models help test how climate variability and sediment cover influence river dynamics, divide migration, and fault-zone morphology.\n\n\n\n\n\n\n\nLong-term exhumation and mountain evolution\nThermochronology and geologic constraints reveal cooling, exhumation, basin development, and landscape evolution over millions of years."
   },
   {
-    "objectID": "index.html#current-direction",
-    "href": "index.html#current-direction",
+    "objectID": "index.html#methods",
+    "href": "index.html#methods",
     "title": "Tamara Aránguiz-Rago",
-    "section": "Current direction",
-    "text": "Current direction\nAfter completing my Ph.D. research in the hyperarid Atacama Desert, I am expanding my work toward glaciated and postglacial landscapes, sediment routing, and tectonic geomorphology in mountain systems."
+    "section": "Methods",
+    "text": "Methods\n\n\nField geology and geomorphic mapping\nSatellite remote sensing, InSAR, GNSS, and topographic analysis\nGeochronology, thermochronology, and sediment records\nLandscape-evolution modeling and scientific programming\n\n\n\n\n\n\n\nFieldwork, samples, and models\nThe work moves between landscapes, samples, satellite data, and code: collecting sediment records in the field, measuring surface deformation and topography, and testing process-based explanations with numerical models."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "A complete, verified publication list will be added here."
+    "text": "This page will hold a verified publication list, selected talks, and links to papers, preprints, datasets, or code when available."
   },
   {
     "objectID": "publications.html#published",
     "href": "publications.html#published",
     "title": "Publications",
     "section": "Published",
-    "text": "Published\nPublications coming soon."
+    "text": "Published\n\nJGR: Earth Surface paper, 2025\nSlow strike-slip faulting in a hyperarid landscape.\nFull citation and DOI to add.\n\n\nGRL paper, 2025\nClimate oscillation and fault slip rate controls on sediment aggradation and channel morphology.\nFull citation and DOI to add.\n\n\nOceanography paper, 2023\nBilingual coding, science communication, and technical training.\nFull citation and link to add."
   },
   {
     "objectID": "publications.html#submitted-and-in-revision",
     "href": "publications.html#submitted-and-in-revision",
     "title": "Publications",
     "section": "Submitted and in revision",
-    "text": "Submitted and in revision\nManuscripts coming soon."
+    "text": "Submitted and in revision\n\nThermochronology manuscript\nCooling, exhumation, and basin development in the Coastal Cordillera.\nStatus and citation details to add."
   },
   {
     "objectID": "publications.html#in-preparation",
     "href": "publications.html#in-preparation",
     "title": "Publications",
     "section": "In preparation",
-    "text": "In preparation\nCurrent projects coming soon."
+    "text": "In preparation\n\nSediment cover and ridge-valley migration modeling\nProject details to add.\n\n\nIRSL paleoseismic deposits\nProject details to add if this becomes a paper or appendix page."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "A downloadable curriculum vitae will be added soon.\nFor current information, please contact me by email."
+    "text": "This page can become either a short web CV or a landing page for a downloadable PDF."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPh.D., Earth and Space Sciences, University of Washington\nProfessional Degree, Geologist, University of Chile\nB.Sc. in Geology, University of Chile\nAcademic exchange in Geosciences, Universidade de São Paulo"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "CV",
+    "section": "Research experience",
+    "text": "Research experience\n\nTectonic geomorphology, active tectonics, surface deformation, thermochronology, and landscape-evolution modeling\nField geology, Quaternary mapping, natural hazards, and engineering geology projects in Chile"
+  },
+  {
+    "objectID": "cv.html#teaching-and-outreach",
+    "href": "cv.html#teaching-and-outreach",
+    "title": "CV",
+    "section": "Teaching and outreach",
+    "text": "Teaching and outreach\n\nUniversity teaching and teaching assistant roles in geology and related science courses\nTechnical training and bilingual programming/science communication workshops"
+  },
+  {
+    "objectID": "cv.html#materials",
+    "href": "cv.html#materials",
+    "title": "CV",
+    "section": "Materials",
+    "text": "Materials\n\nUW Symposium poster: Jesus Rangel\n\n\nAdd later: downloadable PDF, exact dates, current appointment, awards, publications, talks, fieldwork, service, and outreach."
   }
 ]

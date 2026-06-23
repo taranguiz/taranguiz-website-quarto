@@ -1,66 +1,193 @@
 :root {
-    --off-white: #faf8f3;
-    --ochre: #bd6f3a;
-    --slate: #263640;
-    --glacier: #4f879b;
-    --sand: #eee3d3;
-    --border: #d9d4ca;
+  --off-white: #fbf8f1;
+  --paper: #fffdf8;
+  --ochre: #b86734;
+  --clay: #7a4c3a;
+  --slate: #24333a;
+  --glacier: #437d8f;
+  --moss: #5e6f58;
+  --sand: #eadcc7;
+  --border: #d8cdbf;
+}
+
+body {
+  background: var(--off-white);
+  color: var(--slate);
+  font-size: 1.04rem;
+  line-height: 1.65;
+}
+
+.navbar {
+  background: var(--slate);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--slate);
+}
+
+h2 {
+  margin-top: 2.5rem;
+}
+
+a {
+  color: #2f6f83;
+}
+
+a:hover {
+  color: var(--ochre);
+}
+
+.quarto-title-block .title {
+  font-weight: 700;
+}
+
+.home-hero {
+  min-height: 28rem;
+  display: flex;
+  align-items: end;
+  margin: 0.5rem 0 1.25rem;
+  padding: clamp(1.5rem, 5vw, 4rem);
+  border-radius: 0.5rem;
+  background:
+    linear-gradient(90deg, rgb(24 38 43 / 88%), rgb(24 38 43 / 58%), rgb(24 38 43 / 15%)),
+    url("assets/img/web/salar_grande_fault.jpg") center / cover;
+  color: #fff;
+}
+
+.hero-copy {
+  max-width: 48rem;
+}
+
+.hero-copy h2 {
+  margin: 0 0 1rem;
+  color: #fff;
+  font-size: clamp(2rem, 5vw, 4rem);
+  line-height: 1.05;
+}
+
+.hero-copy p {
+  max-width: 42rem;
+  font-size: 1.12rem;
+}
+
+.hero-copy .btn {
+  margin: 0.75rem 0.5rem 0 0;
+  border-radius: 0.25rem;
+}
+
+.hero-copy .btn-primary {
+  border-color: var(--ochre);
+  background: var(--ochre);
+}
+
+.caption {
+  max-width: 72rem;
+  margin: -0.5rem 0 1.5rem;
+  color: #657176;
+  font-size: 0.9rem;
+}
+
+.intro-strip,
+.research-feature,
+.note-box {
+  padding: 1.25rem 1.5rem;
+  border-left: 0.35rem solid var(--ochre);
+  border-radius: 0.25rem;
+  background: var(--paper);
+}
+
+.research-card,
+.info-card,
+.publication-card,
+.gallery-placeholder {
+  overflow: hidden;
+  height: 100%;
+  padding: 1.25rem;
+  border: 1px solid var(--border);
+  border-top: 0.3rem solid var(--glacier);
+  border-radius: 0.5rem;
+  background: var(--paper);
+  box-shadow: 0 0.3rem 1rem rgb(36 51 58 / 7%);
+}
+
+.card-image,
+.gallery-image {
+  width: calc(100% + 2.5rem);
+  max-width: none;
+  height: 13rem;
+  margin: -1.25rem -1.25rem 1rem;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery-image {
+  height: 15rem;
+}
+
+.research-card h3,
+.info-card h3,
+.publication-card h3,
+.gallery-placeholder h3 {
+  margin-top: 0;
+}
+
+.method-list,
+.task-list {
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: #f3f7f4;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.feature-row {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+  gap: 1.5rem;
+  align-items: center;
+  margin: 2rem 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--paper);
+}
+
+.feature-image img {
+  width: 100%;
+  max-height: 28rem;
+  object-fit: cover;
+  border-radius: 0.35rem;
+}
+
+.feature-copy h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .home-hero {
+    min-height: 32rem;
+    padding: 1.25rem;
+    background:
+      linear-gradient(0deg, rgb(24 38 43 / 90%), rgb(24 38 43 / 35%)),
+      url("assets/img/web/salar_grande_fault.jpg") center / cover;
   }
-  
-  body {
-    background: var(--off-white);
-    color: var(--slate);
-    font-size: 1.05rem;
-    line-height: 1.65;
+
+  .hero-copy h2 {
+    font-size: 2.15rem;
   }
-  
-  .navbar {
-    background: var(--slate);
+
+  .gallery-grid {
+    grid-template-columns: 1fr;
   }
-  
-  h1,
-  h2,
-  h3 {
-    color: var(--slate);
+
+  .feature-row {
+    grid-template-columns: 1fr;
   }
-  
-  h2 {
-    margin-top: 2.5rem;
-  }
-  
-  .hero {
-    padding: clamp(1.75rem, 5vw, 4rem);
-    margin: 1rem 0 2.5rem;
-    border-left: 0.4rem solid var(--ochre);
-    border-radius: 0.25rem 1.25rem 1.25rem 0.25rem;
-    background: linear-gradient(135deg, var(--sand), #f4eee5);
-    font-size: 1.15rem;
-  }
-  
-  .research-card {
-    height: 100%;
-    padding: 1.5rem;
-    border: 1px solid var(--border);
-    border-top: 0.3rem solid var(--glacier);
-    border-radius: 0.75rem;
-    background: #fff;
-    box-shadow: 0 0.3rem 1rem rgb(38 54 64 / 8%);
-  }
-  
-  .research-card h3 {
-    margin-top: 0;
-  }
-  
-  a {
-    color: #326d83;
-  }
-  
-  a:hover {
-    color: var(--ochre);
-  }
-  
-  @media (max-width: 768px) {
-    .hero {
-      padding: 1.5rem;
-    }
-  }
+}

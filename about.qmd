@@ -2,10 +2,28 @@
 title: "About"
 ---
 
-I am a tectonic geomorphologist from Santiago, Chile. I study how tectonics, climate, erosion, and sediment transport shape landscapes across timescales.
+I am a tectonic geomorphologist from Santiago, Chile. I study how tectonics, climate, erosion, and sediment transport shape landscapes across timescales, from active faults and river networks to long-term exhumation and mountain evolution.
 
-My work combines field geology, remote sensing, geochronology, thermochronology, and numerical modeling.
+My work combines field geology, remote sensing, geochronology, thermochronology, numerical modeling, and scientific programming. I am especially interested in places where the landscape preserves a complicated record: faults that slip slowly, deserts where water is rare but powerful, sediment that can hide or amplify tectonic signals, and mountains that carry the memory of climate change.
 
-I also care deeply about inclusive geoscience, teaching, mentoring, outreach, and science communication—including lessons learned through improvisational theater.
+I moved to the United States in 2020 to pursue graduate work in Earth and Space Sciences at the University of Washington. Before that, I studied geology at the University of Chile and worked on field campaigns across Chile, including projects related to active tectonics, natural hazards, Quaternary mapping, and engineering geology.
 
-*More biography and a portrait will be added soon.*
+I also care deeply about inclusive geoscience, teaching, mentoring, outreach, and science communication. I am part of communities that support Latin American and Latinx geoscientists, and I value bilingual science communication and technical training.
+
+Outside the usual academic box, improvisational theater has shaped how I think about communication: listening carefully, responding clearly, and making space for other people to contribute.
+
+::: {.feature-row}
+::: {.feature-image}
+![](assets/img/web/osl_salar_grande_2023.jpg){fig-alt="Tamara holding an OSL sample tube during fieldwork in the Atacama Desert"}
+:::
+
+::: {.feature-copy}
+### In the field
+
+Fieldwork is where many of my questions start: reading geomorphic markers, collecting samples, and connecting landscape form to process.
+:::
+:::
+
+::: {.note-box}
+Add later: portrait, current position wording, pronouns if desired, and a short paragraph about current/postdoctoral direction.
+:::
