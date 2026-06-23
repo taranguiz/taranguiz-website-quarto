@@ -1,0 +1,66 @@
+:root {
+    --off-white: #faf8f3;
+    --ochre: #bd6f3a;
+    --slate: #263640;
+    --glacier: #4f879b;
+    --sand: #eee3d3;
+    --border: #d9d4ca;
+  }
+  
+  body {
+    background: var(--off-white);
+    color: var(--slate);
+    font-size: 1.05rem;
+    line-height: 1.65;
+  }
+  
+  .navbar {
+    background: var(--slate);
+  }
+  
+  h1,
+  h2,
+  h3 {
+    color: var(--slate);
+  }
+  
+  h2 {
+    margin-top: 2.5rem;
+  }
+  
+  .hero {
+    padding: clamp(1.75rem, 5vw, 4rem);
+    margin: 1rem 0 2.5rem;
+    border-left: 0.4rem solid var(--ochre);
+    border-radius: 0.25rem 1.25rem 1.25rem 0.25rem;
+    background: linear-gradient(135deg, var(--sand), #f4eee5);
+    font-size: 1.15rem;
+  }
+  
+  .research-card {
+    height: 100%;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    border-top: 0.3rem solid var(--glacier);
+    border-radius: 0.75rem;
+    background: #fff;
+    box-shadow: 0 0.3rem 1rem rgb(38 54 64 / 8%);
+  }
+  
+  .research-card h3 {
+    margin-top: 0;
+  }
+  
+  a {
+    color: #326d83;
+  }
+  
+  a:hover {
+    color: var(--ochre);
+  }
+  
+  @media (max-width: 768px) {
+    .hero {
+      padding: 1.5rem;
+    }
+  }

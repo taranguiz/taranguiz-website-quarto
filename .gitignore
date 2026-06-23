@@ -39,8 +39,7 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
+# Quarto renders the GitHub Pages site into docs/.
 
 # translation temp files
 po/*~
