@@ -18,36 +18,43 @@ body {
 }
 
 .navbar {
-  background: var(--slate);
+  background: #111f24 !important;
+  border-bottom: 0.22rem solid var(--ochre);
 }
 
 .navbar .navbar-brand,
+.navbar .navbar-title,
 .navbar .navbar-nav .nav-link,
-.navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link.show,
 .navbar .quarto-navbar-tools .quarto-navigation-tool {
-  color: #fff8ea;
+  color: #ffffff !important;
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-title {
+  font-weight: 700;
 }
 
 .navbar .navbar-nav .nav-link {
-  opacity: 0.92;
+  border-radius: 0.25rem;
+  color: #ffffff !important;
+  font-weight: 600;
+  opacity: 1;
 }
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link:focus,
 .navbar .quarto-navbar-tools .quarto-navigation-tool:hover,
 .navbar .quarto-navbar-tools .quarto-navigation-tool:focus {
-  color: #ffdca8;
+  background: rgb(255 255 255 / 14%);
+  color: #ffe2b8 !important;
   opacity: 1;
 }
 
 .navbar .navbar-nav .nav-link.active {
-  color: #ffffff;
-  font-weight: 700;
-  text-decoration: underline;
-  text-decoration-color: var(--ochre);
-  text-decoration-thickness: 0.18rem;
-  text-underline-offset: 0.35rem;
+  background: var(--ochre);
+  color: #ffffff !important;
+  font-weight: 800;
 }
 
 .navbar-toggler {
