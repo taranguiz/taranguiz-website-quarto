@@ -1,0 +1,21 @@
+---
+title: "Tools & Code"
+---
+
+## Numerical modeling
+
+Landlab and landscape-evolution modeling.
+
+## Remote sensing
+
+Sentinel-1 InSAR, MintPy, GNSS integration, GIS, and DEM analysis.
+
+## Geochronology and thermochronology
+
+AHe, ZHe, AFT, HeFTy modeling, and luminescence sampling.
+
+## Programming and visualization
+
+Python, MATLAB, PyGMT, TopoToolbox, and scientific visualization.
+
+*Selected workflows and public repositories will be added soon.*

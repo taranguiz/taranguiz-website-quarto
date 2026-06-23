@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+
+website:
+  title: "Tamara Aránguiz-Rago"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: tools.qmd
+        text: Tools & Code
+      - href: teaching-outreach.qmd
+        text: Teaching & Outreach
+      - href: gallery.qmd
+        text: Gallery
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/taranguiz
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:tarangui@uw.edu
+        aria-label: Email
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+

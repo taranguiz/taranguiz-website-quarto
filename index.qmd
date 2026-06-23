@@ -1,0 +1,47 @@
+---
+title: "Tamara Aránguiz-Rago"
+subtitle: "I study how landscapes record tectonics, climate, and erosion."
+toc: false
+---
+
+::: {.hero}
+
+I am a tectonic geomorphologist interested in how faults, climate, erosion, and sediment transport shape Earth’s surface across timescales.
+
+My research combines field observations, remote sensing, geochronology, thermochronology, and numerical modeling to understand how landscapes respond to tectonic and climatic forcing.
+
+:::
+
+## Research themes
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.research-card}
+### Active faults and landscape response
+
+I study how slowly slipping faults leave measurable records in topography, drainage networks, sediment deposits, and surface deformation.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.research-card}
+### Climate, sediment, and landscape evolution
+
+I use numerical models to test how climate variability and sediment cover influence river dynamics, divide migration, and fault-zone morphology.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.research-card}
+### Long-term exhumation and mountain evolution
+
+I use thermochronology and geologic constraints to reconstruct cooling, exhumation, and landscape development over millions of years.
+:::
+:::
+
+:::
+
+## Current direction
+
+After completing my Ph.D. research in the hyperarid Atacama Desert, I am expanding my work toward glaciated and postglacial landscapes, sediment routing, and tectonic geomorphology in mountain systems.
